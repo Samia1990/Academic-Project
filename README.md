@@ -1,5 +1,5 @@
 ## Project Objective
-This project work will focus on implementing a random forest classifier to predict whether a credit card transaction is a valid transaction or a fraudulent one.
+This project work focuses on implementing a random forest classifier to predict whether a credit card transaction is a valid transaction or a fraudulent one.
 ## Data Source
 [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ## Python Libraries used in the Project
